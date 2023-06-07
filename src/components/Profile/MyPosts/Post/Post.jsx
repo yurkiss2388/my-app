@@ -5,10 +5,10 @@ const Post = (props) => {
     
     return (
         <div className={styles.item}>
-            <img src='https://demotivation.ru/wp-content/uploads/2020/11/risunok-art-devushka-lico-ochki-scaled.jpg'></img>
+            <img src='https://i.ytimg.com/vi/9SE17X3ysqw/maxresdefault.jpg'></img>
             {props.message}
             <div>
-                <span>like</span>
+                <span>Like</span>
                 {props.Likes}
             
             </div>
